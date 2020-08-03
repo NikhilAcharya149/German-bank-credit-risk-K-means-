@@ -13,4 +13,4 @@ Content of the data set:
 9. Purpose (text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others)
 10. Risk : good / bad
 
-I used k-means clustering alogrithm to segment customers of German bank by gender and credit risk worthiness. 
+I used k-means clustering alogrithm to segment customers of German bank. 
