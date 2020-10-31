@@ -1,5 +1,5 @@
 # Segmentation of customers of German bank
-The data is accessed via folowing link: https://www.kaggle.com/uciml/german-credit
+The data is accessed via folowing link: https://www.kaggle.com/uciml/german-credit  
 Content of the data set:
 
 1. Age (numeric)
