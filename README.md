@@ -1,7 +1,7 @@
 # Segmentation of customers of German bank
 The data is accessed via folowing link: https://www.kaggle.com/uciml/german-credit  
-Content of the data set:
 
+Content of the data set:
 1. Age (numeric)
 2. Sex (text: male, female)
 3. Job (numeric: 0 - unskilled and non-resident, 1 - unskilled and resident, 2 - skilled, 3 - highly skilled)
